@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  ls-l
+    6  ls -l
+    7  ````a/v/12sepnycbjl+ua.lh.sn
+    8  whoami
+    9  ls -a
+   10  sh
+   11  ls
+   12  mkdir MyDirectory
+   13  ls -l
+   14  cd mydirectory
+   15  cd MyDirectory
+   16  ls
+   17  ls -l
+   18  ls -al
+   19  ls -a
+   20  ls -l
+   21  ls -la
+   22  sh
+   23  pwd
+   24  cd MyDirectory/
+   25  pwd
+   26  cd MyDirectory/
+   27  rmdir MyDirectory/
+   28  pwd
+   29  cd /
+   30  history > history_20190916a.txt
+   31  ls -l
+   32  cat history_20190916a.txt
+   33  cat hi
+   34  ls
+   35  cat history_20190916a.txt 
+   36  ls
+   37  l 
+   38  history > history_20190916a.txt
