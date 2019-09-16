@@ -1,2 +1,15 @@
+Hello World !
 Hello World again!
-Hello World again!
+pwd
+cd
+ls -l 
+cs /history
+echo Hello WOrld > bbb.txt
+cat bbb.txt
+echo Hello Worls again! > bbb.txt
+ls -l
+stat > bbb.txt
+echo Hello\t world
+echo -c "Hello\t world"
+man echo
+echo -e "Hello\t World"
